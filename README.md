@@ -15,3 +15,7 @@ Aplicatia va putea fi folosita atat de colegi, cat si de profesor.
 * Vizualizarea tuturor proiectelor
 * Notarea unui proiect 
 
+### Interfata grafica
+
+
+
