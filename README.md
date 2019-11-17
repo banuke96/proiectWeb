@@ -26,6 +26,7 @@ Aplicatia va putea fi folosita atat de colegi, cat si de profesor.
  * Inregistrare cu email si parola, alegand numele echipei din care face parte
  * Autentificare cu email si parola
  * Incarcare, modificare si stergere fisiere in cele doua faze ale proiectului  
+ * Vizualizarea tuturor proiectelor (video demonstrativ)
  * Notarea unui proiect
  
 ### Exemple requesturi
