@@ -1,4 +1,4 @@
-# Aplicație web acordarea anonimă de note (pai si?)
+# Aplicație web acordarea anonimă de note
 
 ## Obiectiv
 Realizarea unei aplicații web care să permită acordarea de punctaje anonime de catre un juriu anonim de studenti proiectului altor studenti.
