@@ -17,5 +17,6 @@ Aplicatia va putea fi folosita atat de colegi, cat si de profesor.
 
 ### Interfata grafica
 
+![alt text](https://raw.githubusercontent.com/banuke96/proiectWeb/master/docs/flow1jpg.jpg)
 
 
