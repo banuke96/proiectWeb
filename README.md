@@ -19,4 +19,17 @@ Aplicatia va putea fi folosita atat de colegi, cat si de profesor.
 
 ![alt text](https://raw.githubusercontent.com/banuke96/proiectWeb/master/docs/flow1jpg.jpg)
 
+![alt-text](https://raw.githubusercontent.com/banuke96/proiectWeb/master/docs/flow2jpg.jpg)
 
+
+### Actiunile utilizatorului
+ * Inregistrare cu email si parola, alegand numele echipei din care face parte
+ * Autentificare cu email si parola
+ * Incarcare, modificare si stergere fisiere in cele doua faze ale proiectului  
+ * Notarea unui proiect
+ 
+### Exemple requesturi
+ * get /projects
+ * post /projectpart1
+ * put /projectgrade
+ 
