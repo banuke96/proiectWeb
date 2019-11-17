@@ -8,3 +8,10 @@ Platforma este bazata pe o aplicatie web cu arhitectura de tip *Single Page Appl
 
 Aplicatia va putea fi folosita atat de colegi, cat si de profesor.
 
+### Componente
+
+* Sign up/Sign in
+* Informatii proiect cu upload livrabile partiale
+* Vizualizarea tuturor proiectelor
+* Notarea unui proiect 
+
