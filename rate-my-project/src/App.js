@@ -11,12 +11,14 @@ import {
 import HomePage from './containers/Home/Home'
 import ProjectsPage from './containers/Projects/Projects';
 import AboutPage from './containers/About/About';
+import NavbarComponent from './components/Navbar/Navbar';
 
 function App() {
   return (
     <Router>
       <div>
-        <Route exact path='/' component={HomePage}></Route>
+        <NavbarComponent />
+        <Route exact path='/home' component={HomePage}></Route>
         <Route exact path='/projects' component={ProjectsPage}></Route>
         <Route exact path='/about' component={AboutPage}></Route>
       </div>
