@@ -4,7 +4,6 @@ import './App.css';
 
 import {
   Route,
-  useHistory,
   BrowserRouter as Router
 } from 'react-router-dom'
 
