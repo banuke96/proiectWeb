@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rate-my-app-form {
+  font-size: 15px;
+}
+
+.rate-my-app-form .form-control {
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  max-width: 100%;
+}
+
+.rate-my-app-form .form-label {
+  padding-left: 0;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.rate-my-app-button {
+  
+}

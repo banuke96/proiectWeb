@@ -18,7 +18,7 @@ function App() {
     <Router>
       <div>
         <NavbarComponent />
-        <Route exact path='/home' component={HomePage}></Route>
+        <Route exact path='/' component={HomePage}></Route>
         <Route exact path='/projects' component={ProjectsPage}></Route>
         <Route exact path='/about' component={AboutPage}></Route>
       </div>
